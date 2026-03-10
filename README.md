@@ -1,5 +1,60 @@
-# Links
+**Relatório de Conteúdo: Planejamento Pedagógico Pré-CK**<br>
+Este documento descreve a estrutura e as atividades planejadas na planilha pedagógica, focada no ensino de tecnologia, alfabetização digital e cultura maker para o período de junho de 2025 a janeiro de 2026<br>
 
+**Cronograma Semanal e Ferramentas**
+  A planilha apresenta um cronograma detalhado onde as aulas são divididas por data e organizadas em três blocos de ferramentas/atividades:
+
+Bloco 1: Digitação e Alfabetização Digital
+
+ Utiliza plataformas como https://www.google.com/url?sa=E&source=gmail&q=Typing.com e EdClub.
+
+O foco inicial é o reconhecimento de teclas (como J, F e Espaço) e evolui para a fileira principal, superior e inferior do teclado, além de revisões e avaliações<br>
+**Bloco 2: Domínio do Mouse e Introdução à Programação**<br>
+
+  °Usa ferramentas como Mouse House, Dragon Drop e Scratch Jr.<br>
+
+  °Trabalha habilidades motoras finas (clicar, arrastar, desenhar) e evolui para a criação de histórias animadas, loops e troca de cenários no Scratch Jr.<br>
+
+**Bloco 3: Lógica de Programação e Scratch 3**<br>
+
+  °Baseado principalmente no Code.org (com temas como Angry Birds, Star Wars e Frozen) e, posteriormente, no Scratch 3.
+
+  °Aborda conceitos de sequenciamento, repetições, eventos e criação de projetos autorais, como cartões animados e animações de nome.<br>
+
+**2. Atividades Maker (Cultura Maker)**
+ A planilha contém um catálogo extenso de projetos práticos, classificados por:
+
+
+  °Nível de Dificuldade: Varia de "Fácil" (ex: Cone de vento) a "Muito Difícil" (ex: Modelo de terremoto ou Carrinho com controle remoto).
+
+
+  °Tempo Estimado: Atividades de 50 minutos a 4 horas de execução.
+
+
+  °Áreas de Conhecimento: Integração com Ciências (Física, Química, Biologia), Matemática, História, Geografia e Artes.
+
+
+  °Recursos: Uso de materiais recicláveis (sucata) e componentes de eletrônica básica (motores DC, LEDs, fitas condutivas).
+
+  °Exemplos de Projetos Incluídos:
+
+  °Foguete de garrafa PET (Química).
+
+  °Mão biônica de papelão (Biologia).
+
+  °Labirinto elétrico e Barco a vapor (Física).
+
+  °Calculadora de papelão e Geometria espacial (Matemática).
+
+**3. Estrutura de Datas Importantes**
+
+Início do Cronograma: 
+
+
+  Módulos Especiais: Introdução ao módulo de IA + Python e lógica para crianças pré-alfabetizadas (Pre-CK).
+
+
+Encerramento do Planejamento: 31/01/202
 **Plataformas online para ensino de tecnologia para crianças**<br>
 * Jogos que ensinam programação <br>
   * <a href="https://code.org/">Code.org</a>: Atividades do 1º ano do fundamental ao 3º do médio.<br>
